@@ -96,7 +96,7 @@ const DetailPage = () => {
               <span className='bg-slate-500 text-xs ml-2 px-1 py-0 rounded-sm'>
                 SU
               </span>
-              <span className='ml-2'>2024 1h 26m</span>
+              <span className='ml-2'>2026 1h 26m</span>
               <img src={logo4k} alt='logo4k' className='ml-2' />
               <img src={logo4k} alt='logo4k' className='ml-2' />
             </div>
