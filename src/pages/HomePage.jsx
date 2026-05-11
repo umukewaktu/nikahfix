@@ -43,7 +43,7 @@ const HomePage = () => {
                   alt='NikahFix Logo'
                   className='w-20 h-auto mb-4'
                 />
-                <p className='text-2xl font-sans font-bold'>Usra & Echidna:</p>
+                <p className='text-2xl font-sans font-bold'>Faisal & Echidna:</p>
                 <p className='text-2xl font-sans font-bold mb-4'>
                   Sebelum Hari H
                 </p>
@@ -52,7 +52,7 @@ const HomePage = () => {
                     Coming soon
                   </span>
                   <span className='text-white text-sm font-medium ml-3'>
-                    24 Desember 2024
+                    24 Desember 2026
                   </span>
                 </div>
                 <div className='flex flex-wrap mb-2'>
