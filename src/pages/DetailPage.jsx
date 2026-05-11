@@ -89,7 +89,7 @@ const DetailPage = () => {
           </div>
           <div className='flex flex-col mt-2'>
             <div className='text-white text-xl font-sans font-bold'>
-              Usra & Echidna:Nikah Ama Anime
+              Faisal & Echidna:Nikah Ama Anime
             </div>
             <div className='flex items-center'>
               <span className='text-green-500'>100% match</span>
@@ -105,7 +105,7 @@ const DetailPage = () => {
                 Coming soon on Tuesday, 24 October 2024
               </span>
               <div className='text-white mt-2'>
-                Setelah Usra Dan Echidna dipertemukan di isekai dalam kondisi
+                Setelah Faisal Dan Echidna dipertemukan di isekai dalam kondisi
                 tepat, di mana keduanya telah siap untuk memulai hubungan
                 bersama, tibalah mereka di awal perjalanan baru menuju
                 pernikahan
@@ -207,9 +207,9 @@ const DetailPage = () => {
                   </div>
                 </div>
                 <div className='text-[#A3A1A1] text-sm'>
-                  Usra dan Echidna pertama kali bertemu di isekai. Karena
+                  Faisal dan Echidna pertama kali bertemu di isekai. Karena
                   sering memiliki kepentingan yang berbahya, Echidna jadi sering
-                  bertemu dengan Usra
+                  bertemu dengan Faisal
                 </div>
                 <div className='flex flex-col'>
                   <div className='grid grid-cols-2 gap-5'>
@@ -254,7 +254,7 @@ const DetailPage = () => {
                   </div>
                 </div>
                 <div className='text-[#A3A1A1] text-sm'>
-                  Seringkali Usra memberitahu kepada Echidan bahwa ia tertarik
+                  Seringkali Faisal memberitahu kepada Echidan bahwa ia tertarik
                   dan ingin menjalanin Hubungan lebih serius
                 </div>
                 <div className='flex flex-col'>
